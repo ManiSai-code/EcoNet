@@ -32,7 +32,15 @@ export function Header() {
     { to: "/about", label: t("nav.about") },
     { to: "/contact", label: t("nav.contact") },
   ];
-
+const nav = [
+    { to: "/", label: t("nav.home") },
+    { to: "/services", label: t("nav.services") },
+    { to: "/schemes", label: t("nav.schemes") },
+    { to: "/documents", label: t("nav.documents") },
+    { to: "/chatbot", label: t("nav.chatbot") },
+    { to: "/about", label: t("nav.about") },
+    { to: "/contact", label: t("nav.contact") },
+  ];
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
