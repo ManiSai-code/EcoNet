@@ -1,4 +1,4 @@
-#  Sarkari Sahayak – AI Powered Multilingual Government Service Assistant
+# 🚀 Sarkari Sahayak – AI Powered Multilingual Government Service Assistant
 
 ## 📌 Problem Statement
 
@@ -11,6 +11,17 @@ Navigating official government portals can be complex and overwhelming for citiz
 **Sarkari Sahayak** is an AI-powered, full-stack multilingual chatbot platform designed to bridge the gap between citizens and government services. It provides intuitive, 24/7 AI-driven assistance with automatic language detection, enabling users to interact in their preferred language.
 
 The platform delivers real-time information on verified government schemes, document application procedures, eligibility criteria, required documents, and government service directories through an easy-to-use citizen dashboard.
+
+---
+
+# 🌐 Live Demo
+
+🚀 **Experience Sarkari Sahayak in Action**
+
+* **🔗 [Launch Live Application](https://app-cmcgal0y1b0h.appmedo.com)**
+* **📂 [View GitHub Repository](https://github.com/ManiSai-code/QuadCore-Creators)**
+
+> Click **Launch Live Application** to access the deployed project.
 
 ---
 
