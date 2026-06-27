@@ -58,6 +58,9 @@ function LoginPage() {
           <CardHeader>
             <CardTitle>Access your account</CardTitle>
           </CardHeader>
+          <CardHeader>
+            <CardTitle>Access your account</CardTitle>
+          </CardHeader>
           <CardContent>
             <Tabs defaultValue="login">
               <TabsList className="grid grid-cols-2 mb-4">
